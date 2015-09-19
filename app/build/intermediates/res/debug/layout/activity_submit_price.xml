@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+    <ListView
+            android:layout_width="match_parent"
+            android:layout_height="410dp"
+            android:id="@android:id/list"
+            android:layout_margin="5dp"/>
+
+
+
+
+    <Button
+        android:id="@+id/btnCapture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Camera" />
+
+    <Button
+        android:text="Take a picture of the price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="clip_vertical"
+        android:onClick="OpenCamera" />
+
+    <Button
+        android:text="Submit a price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="clip_vertical"
+        android:onClick="SubmitPriceClick" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Webview"
+        android:layout_gravity="clip_vertical"
+        android:onClick="onWebViewButtonClick" />
+
+    <WebView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/webView1"
+        android:layout_width="match_parent"
+        android:layout_height="400dp" />
+
+</LinearLayout>
+
+<!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/layout/activity_submit_price.xml -->
