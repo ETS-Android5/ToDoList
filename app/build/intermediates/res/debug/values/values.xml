@@ -1090,7 +1090,7 @@ m>        <item name="android:textColorLink">@color/link_text_material_dark</ite
     </style>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/styles.xml -->
     <eat-comment/>
-    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+    <style name="FullscreenTheme" parent="android:Theme.Material.Light">
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowBackground">@null</item>
         <item name="metaButtonBarStyle">@style/ButtonBar</item>
