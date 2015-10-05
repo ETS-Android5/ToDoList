@@ -31,7 +31,7 @@
         android:theme="@android:style/Theme.Material.Light" >
         <meta-data
             android:name="com.google.android.gms.version"
-            android:value="AIzaSyBv4fx9bC_iUrFa-ClBJBJ_Dn07FMqVVrc" />
+            android:value="@integer/google_play_services_version" />
 
         <activity
             android:name="com.example.TodoList.LoginActivity"
@@ -46,6 +46,11 @@
             android:name="com.example.TodoList.MainActivity"
             android:label="@string/app_name" >
         </activity>
+        <activity
+            android:name="com.example.TodoList.NormalActivity"
+            android:excludeFromRecents="true"
+            android:taskAffinity=""
+            android:theme="@style/Theme.Sliding.Light" />
         <activity
             android:name="com.example.TodoList.SubmitPriceActivity"
             android:label="@string/title_activity_submit_price" >
