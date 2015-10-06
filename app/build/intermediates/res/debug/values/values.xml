@@ -357,6 +357,9 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="design_snackbar_text_max_lines">2</integer>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/values.xml -->
+    <eat-comment/>
+    <integer name="gms_version">@integer/google_play_services_version</integer>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">6111000</integer>

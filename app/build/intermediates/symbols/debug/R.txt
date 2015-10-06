@@ -836,11 +836,12 @@ int integer abc_config_activityShortDur 0x7f090006
 int integer abc_max_action_buttons 0x7f090001
 int integer cancel_button_image_alpha 0x7f090007
 int integer design_snackbar_text_max_lines 0x7f090004
-int integer google_play_services_version 0x7f090008
+int integer gms_version 0x7f090008
+int integer google_play_services_version 0x7f090009
 int integer sliding_card_layout_weight 0x7f090002
 int integer sliding_space_layout_weight 0x7f090003
 int integer sliding_title_lines 0x7f090000
-int integer status_bar_notification_info_maxnum 0x7f090009
+int integer status_bar_notification_info_maxnum 0x7f09000a
 int layout abc_action_bar_title_item 0x7f030000
 int layout abc_action_bar_up_container 0x7f030001
 int layout abc_action_bar_view_list_nav_layout 0x7f030002

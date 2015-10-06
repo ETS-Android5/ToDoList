@@ -2775,11 +2775,12 @@ containing a value of this type.
         public static final int abc_max_action_buttons=0x7f090001;
         public static final int cancel_button_image_alpha=0x7f090007;
         public static final int design_snackbar_text_max_lines=0x7f090004;
-        public static final int google_play_services_version=0x7f090008;
+        public static final int gms_version=0x7f090008;
+        public static final int google_play_services_version=0x7f090009;
         public static final int sliding_card_layout_weight=0x7f090002;
         public static final int sliding_space_layout_weight=0x7f090003;
         public static final int sliding_title_lines=0x7f090000;
-        public static final int status_bar_notification_info_maxnum=0x7f090009;
+        public static final int status_bar_notification_info_maxnum=0x7f09000a;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f030000;
