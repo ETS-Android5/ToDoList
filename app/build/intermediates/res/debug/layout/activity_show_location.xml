@@ -15,9 +15,6 @@
         android:layout_height="350dp"
         android:id="@android:id/list"
         android:layout_margin="5dp"/>
-
-
-
 </LinearLayout>
 
 <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/layout/activity_show_location.xml -->

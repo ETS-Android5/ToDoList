@@ -2,32 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-7112771d88e4293968618353db93f065eefe9c7f.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0afb6a4eb7dbac801658aae733bd2344edc37e4f.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c1d61a88682dcc2fb85a01775aff91d207816442.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-8a54e108099f4f13df4b28d8abf6456189b9a1ac.jar" />
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-a6d3b566b2e545ad0f8cc5d9be88888008b392ff.jar" />
     </item>
     <item
         jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
@@ -37,130 +16,11 @@
         <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-905672830a28228639bd99e4b917ec1d298a51f6.jar" />
     </item>
     <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-d7d65eafff064a74c8994bd70c45d3ce2011536a.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-2b37ab69c42c29ca180834fd2b5ae75ae95516c4.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-a6d3b566b2e545ad0f8cc5d9be88888008b392ff.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-b91e9de9188239b6e8faa72a92dbffc354b89e6a.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-d8eaa486cdbdd121535f414a07549f81717841bf.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-c21a1f725214ecb870c8549b729fad18aa456843.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-40b0d23df492ced1c209e40282d54caf0c48a325.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-b0d2c597e04fcc1f155ecf149c264766ae7bcb73.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0ccec0ce7c91b4fa2a05943e514e92e5f321f4ba.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-883d60bf56b99046495454d82d2fd160515b6cd8.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-0c4e18b423146f41567985f67d1a23ff63cc2bcf.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0f94bfe0590ab814f2ea17e4fa42b402394f84f6.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-c2b3c303abfb4f824811d2b5e2111747435a65c9.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" />
-    </item>
-    <item
         jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
         <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-4b293b458bbebed2baab7e3019d6a595d49881df.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-5d1dbe3de4cd573d23f29015cc8ca06ffb4c499d.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-81477a43ad026c6db960bd03b0397f438f1acf70.jar" />
     </item>
     <item
         jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
@@ -170,53 +30,32 @@
         <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-5dc1fc8fc2f91a75b54af034ad54a871a741ceab.jar" />
     </item>
     <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-bdc6325055124a89e12777ff7e17600209804f9e.jar" />
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-7112771d88e4293968618353db93f065eefe9c7f.jar" />
     </item>
     <item
-        jar="/Users/bastian/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-c2b3c303abfb4f824811d2b5e2111747435a65c9.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c1d61a88682dcc2fb85a01775aff91d207816442.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-ed232a345b2fbb1f4730a32d5504504bde42931d.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-e6636e52e4a76c82087f149e938bae15cdee60b7.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-a560643762deefaaf16dffa924a72fb3ac1b5075.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-40126f6feacd66df12e30a407b41df7eeec0b8d1.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-795a5e8e45b25a29cac19cbb429fec9e00862b06.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-390a030c47992598262012765672071676090f48.jar" />
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" />
     </item>
     <item
         jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
@@ -226,18 +65,11 @@
         <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-89c49d1e4e26f610ccdab6de5eb8ed5cc5785fc7.jar" />
     </item>
     <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jar="/Users/bastian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="2e24e5f1b11170163028277de63f709e42525db4">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-230fe146e852a235b7eab3a38b8c621aac0775e7.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
-        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0ac9a2509d6c7de02aab4716c73f3b3f43fb1797.jar" />
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-481a949c944bb65aeab4eca6d0df2b80d644a9e2.jar" />
     </item>
     <item
         jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
@@ -247,6 +79,69 @@
         <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-9eaed0caf398c8dda6233df935c5d334f30ab290.jar" />
     </item>
     <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-bdc6325055124a89e12777ff7e17600209804f9e.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-8a54e108099f4f13df4b28d8abf6456189b9a1ac.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-b0d2c597e04fcc1f155ecf149c264766ae7bcb73.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-40b0d23df492ced1c209e40282d54caf0c48a325.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-0c4e18b423146f41567985f67d1a23ff63cc2bcf.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-a560643762deefaaf16dffa924a72fb3ac1b5075.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-b91e9de9188239b6e8faa72a92dbffc354b89e6a.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-e6636e52e4a76c82087f149e938bae15cdee60b7.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-c21a1f725214ecb870c8549b729fad18aa456843.jar" />
+    </item>
+    <item
         jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -254,11 +149,109 @@
         <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-16a793524a8969fdf47ee71e2a53f9ce78159760.jar" />
     </item>
     <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-390a030c47992598262012765672071676090f48.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-883d60bf56b99046495454d82d2fd160515b6cd8.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0ccec0ce7c91b4fa2a05943e514e92e5f321f4ba.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-40126f6feacd66df12e30a407b41df7eeec0b8d1.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-5d1dbe3de4cd573d23f29015cc8ca06ffb4c499d.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-2b37ab69c42c29ca180834fd2b5ae75ae95516c4.jar" />
+    </item>
+    <item
         jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="a6901af1d022478afa249454bd2ddcc3992ab37f">
         <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-230fe146e852a235b7eab3a38b8c621aac0775e7.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-795a5e8e45b25a29cac19cbb429fec9e00862b06.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-d7d65eafff064a74c8994bd70c45d3ce2011536a.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0f94bfe0590ab814f2ea17e4fa42b402394f84f6.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-d8eaa486cdbdd121535f414a07549f81717841bf.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0ac9a2509d6c7de02aab4716c73f3b3f43fb1797.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/bastian/AndroidStudioProjects/FancyToDoList 2/app/build/intermediates/pre-dexed/debug/classes-0afb6a4eb7dbac801658aae733bd2344edc37e4f.jar" />
     </item>
 
 </items>
