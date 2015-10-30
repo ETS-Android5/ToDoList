@@ -397,8 +397,8 @@
     <string name="action_settings">Settings</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings_activity_login.xml -->
     <eat-comment/>
-    <string name="action_sign_in">Sign in</string>
-    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_in">Einloggen</string>
+    <string name="action_sign_in_short">Einloggen</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">batprice</string>
@@ -447,10 +447,11 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings_activity_login.xml -->
     <eat-comment/>
-    <string name="error_field_required">This field is required</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">Dieses Feld wird benötigt</string>
+    <string name="error_incorrect_password">Das Passwort ist nicht korrekt</string>
+    <string name="error_invalid_email">Diese Emailadresse ist nicht gültig</string>
+    <string name="error_invalid_password">Das Passwort ist zu kurz</string>
+    <string name="error_non_numeric_password">Das Passwort ist nicht numerisch oder zu kurz</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="hello_world">Hello world!</string>

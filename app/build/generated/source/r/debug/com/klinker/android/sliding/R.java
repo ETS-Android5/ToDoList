@@ -777,7 +777,7 @@ public final class R {
 		public static final int abc_shareactionprovider_share_with_application = 0x7f05000f;
 		public static final int abc_toolbar_collapse_description = 0x7f050010;
 		public static final int appbar_scrolling_view_behavior = 0x7f050036;
-		public static final int sliding_transparent_view_description = 0x7f050043;
+		public static final int sliding_transparent_view_description = 0x7f050044;
 		public static final int status_bar_notification_info_overflow = 0x7f05002d;
 	}
 	public static final class style {

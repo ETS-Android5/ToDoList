@@ -2908,17 +2908,18 @@ containing a value of this type.
         public static final int error_incorrect_password=0x7f05003d;
         public static final int error_invalid_email=0x7f05003e;
         public static final int error_invalid_password=0x7f05003f;
-        public static final int hello_world=0x7f050040;
-        public static final int prompt_email=0x7f050041;
-        public static final int prompt_password=0x7f050042;
-        public static final int sliding_transparent_view_description=0x7f050043;
+        public static final int error_non_numeric_password=0x7f050040;
+        public static final int hello_world=0x7f050041;
+        public static final int prompt_email=0x7f050042;
+        public static final int prompt_password=0x7f050043;
+        public static final int sliding_transparent_view_description=0x7f050044;
         public static final int status_bar_notification_info_overflow=0x7f05002d;
-        public static final int store_picture_message=0x7f050044;
-        public static final int store_picture_title=0x7f050045;
-        public static final int title_activity_geo=0x7f050046;
-        public static final int title_activity_login=0x7f050047;
-        public static final int title_activity_show_location=0x7f050048;
-        public static final int title_activity_submit_price=0x7f050049;
+        public static final int store_picture_message=0x7f050045;
+        public static final int store_picture_title=0x7f050046;
+        public static final int title_activity_geo=0x7f050047;
+        public static final int title_activity_login=0x7f050048;
+        public static final int title_activity_show_location=0x7f050049;
+        public static final int title_activity_submit_price=0x7f05004a;
         public static final int wallet_buy_button_place_holder=0x7f05002e;
     }
     public static final class style {
