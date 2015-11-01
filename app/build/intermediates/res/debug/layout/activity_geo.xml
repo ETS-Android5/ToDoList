@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/map"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:showAsAction="always"
-        class = "com.google.android.gms.maps.MapFragment"/>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/map"
+    class="com.google.android.gms.maps.MapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:showAsAction="always" />
 <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/layout/activity_geo.xml -->

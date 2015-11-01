@@ -3,7 +3,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="content_background"/>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -11,7 +11,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="popup_theme"/>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="title"/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
@@ -24,7 +24,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <bool name="sliding_two_panel">false</bool>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -39,7 +39,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black_overlay">#66000000</color>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -49,12 +49,11 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="cardview_dark_background">#FF202020</color>
-    <color name="cardview_light_background">#FFFAFAFA</color>
-    <color name="cardview_shadow_end_color">#03000000</color>
-    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/common_colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
@@ -81,7 +80,7 @@
     <color name="design_fab_stroke_top_outer_color">#2EFFFFFF</color>
     <color name="design_snackbar_background_color">#323232</color>
     <color name="design_textinput_error_color">#FFDD2C00</color>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -90,7 +89,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="fab_ripple">#88ffffff</color>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
@@ -101,7 +100,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="light_background">#FAFAFA</color>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -117,9 +116,10 @@
     <color name="material_grey_900">#ff212121</color>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/colors.xml -->
     <eat-comment/>
+    <color name="navigationBarColor">#000000</color>
     <color name="primary_color">#FFEBEE</color>
     <color name="primary_color_dark">#F44336</color>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -139,6 +139,9 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="textColorPrimary">#FFFFFF</color>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/wallet_colors.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
@@ -154,6 +157,9 @@
     <color name="wallet_hint_foreground_holo_light">#808080</color>
     <color name="wallet_holo_blue_light">#ff33b5e5</color>
     <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="windowBackground">#FFFFFF</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
     <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
@@ -166,7 +172,6 @@
     <declare-styleable name="AppBarLayout_LayoutParams"><attr name="layout_scrollFlags"><flag name="scroll" value="0x1"/><flag name="exitUntilCollapsed" value="0x2"/><flag name="enterAlways" value="0x4"/><flag name="enterAlwaysCollapsed" value="0x8"/></attr><attr format="reference" name="layout_scrollInterpolator"/></declare-styleable>
     <declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/></declare-styleable>
     <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
-    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
     <declare-styleable name="CollapsingAppBarLayout_LayoutParams"><attr name="layout_collapseMode"><enum name="none" value="0"/><enum name="pin" value="1"/><enum name="parallax" value="2"/></attr><attr format="float" name="layout_collapseParallaxMultiplier"/></declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout"><attr format="dimension" name="expandedTitleMargin"/><attr format="dimension" name="expandedTitleMarginStart"/><attr format="dimension" name="expandedTitleMarginTop"/><attr format="dimension" name="expandedTitleMarginEnd"/><attr format="dimension" name="expandedTitleMarginBottom"/><attr format="reference" name="expandedTitleTextAppearance"/><attr format="reference" name="collapsedTitleTextAppearance"/><attr format="color" name="contentScrim"/><attr format="color" name="statusBarScrim"/><attr format="reference" name="toolbarId"/><attr name="collapsedTitleGravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="center" value="0x11"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr name="expandedTitleGravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="center" value="0x11"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr format="boolean" name="titleEnabled"/><attr name="title"/></declare-styleable>
     <declare-styleable name="CompoundButton"><attr name="android:button"/><attr format="color" name="buttonTint"/><attr name="buttonTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
@@ -200,7 +205,7 @@
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
     <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -266,11 +271,6 @@
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res/values/values.xml -->
-    <eat-comment/>
-    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
-    <dimen name="cardview_default_elevation">2dp</dimen>
-    <dimen name="cardview_default_radius">2dp</dimen>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="design_appbar_elevation">4dp</dimen>
@@ -299,7 +299,7 @@
     <dimen name="design_snackbar_text_size">14sp</dimen>
     <dimen name="design_tab_max_width">264dp</dimen>
     <dimen name="design_tab_min_width">72dp</dimen>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -313,7 +313,7 @@
     <dimen name="fab_marginRight">0dp</dimen>
     <dimen name="fab_marginTop">-56dp</dimen>
     <dimen name="first_card_marginTop">12dp</dimen>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
@@ -333,7 +333,7 @@
     <dimen name="sliding_starting_empty_height">150dp</dimen>
     <dimen name="sliding_title_initial_margin">16dp</dimen>
     <dimen name="sliding_toolbar_elevation">4.5dp</dimen>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -348,7 +348,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="view_offset_helper" type="id"/>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
@@ -366,7 +366,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="sliding_title_lines">1</integer>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -406,6 +406,14 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="btn_icon_tabs">Only Icon Tabs</string>
+    <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
+    <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+    <string name="btn_simple_tabs">Simple Tabs</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
@@ -445,6 +453,7 @@
     <eat-comment/>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="eight">EIGHT</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="error_field_required">Dieses Feld wird benötigt</string>
@@ -454,15 +463,23 @@
     <string name="error_non_numeric_password">Das Passwort ist nicht numerisch oder zu kurz</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="five">FIVE</string>
+    <string name="four">FOUR</string>
     <string name="hello_world">Hello world!</string>
+    <string name="nine">NINE</string>
+    <string name="one">ONE</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password (optional)</string>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="seven">SEVEN</string>
+    <string name="six">SIX</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>
     <string name="sliding_transparent_view_description">Click to return to previous screen</string>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/admob_strings.xml -->
@@ -471,18 +488,29 @@
     <string name="store_picture_title">Save image</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="ten">TEN</string>
+    <string name="three">THREE</string>
+    <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
     <string name="title_activity_geo">Your current location is:</string>
+    <string name="title_activity_icon_tabs">Icon Tabs</string>
+    <string name="title_activity_icon_text_tab">IconTextTabActivity</string>
+    <string name="title_activity_icon_text_tabs">Icon and Text Tabs</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings_activity_login.xml -->
     <eat-comment/>
     <string name="title_activity_login">Sign in</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
     <string name="title_activity_show_location">ShowLocationActivity</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
     <string name="title_activity_submit_price">Submit a price:</string>
+    <string name="two">TWO</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
@@ -1423,31 +1451,23 @@
         <item name="android:background">@android:drawable/bottom_bar</item>
     </style>
     <style name="ButtonBarButton"/>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/res/values/values.xml -->
-    <eat-comment/>
-    <style name="CardView">
-        <item name="cardBackgroundColor">@color/cardview_light_background</item>
-        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
-        <item name="cardElevation">@dimen/cardview_default_elevation</item>
-        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
-        <item name="cardUseCompatPadding">false</item>
-        <item name="cardPreventCornerOverlap">true</item>
-    </style>
-    <style name="CardView.Dark">
-        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
-    </style>
-    <style name="CardView.Light">
-        <item name="cardBackgroundColor">@color/cardview_light_background</item>
-    </style>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/styles.xml -->
-    <eat-comment/>
-    <style name="FullscreenTheme" parent="android:Theme.Material.Light">
+    <style name="FullscreenTheme" parent="Theme.AppCompat">
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowBackground">@null</item>
         <item name="metaButtonBarStyle">@style/ButtonBar</item>
         <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
     </style>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
+
+    </style>
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1665,7 +1685,7 @@
         <item name="android:textColor">?android:textColorSecondary</item>
         <item name="textAllCaps">true</item>
     </style>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
@@ -1736,7 +1756,7 @@
         <item name="content_background">@color/light_background</item>
         <item name="popup_theme">@style/ThemeOverlay.AppCompat.Light</item>
     </style>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
@@ -1777,7 +1797,7 @@
         <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
         <item name="maskedWalletDetailsLogoImageType">classic</item>
     </style>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>

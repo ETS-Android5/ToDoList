@@ -8,7 +8,7 @@
         <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
         <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
     </style>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>

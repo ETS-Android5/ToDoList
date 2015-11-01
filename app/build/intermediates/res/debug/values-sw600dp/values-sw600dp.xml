@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-sw600dp/values-sw600dp.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
     <dimen name="abc_action_bar_default_height_material">64dp</dimen>
@@ -22,7 +22,7 @@
     <eat-comment/>
     <dimen name="sliding_header_max_height">400dp</dimen>
     <dimen name="sliding_photo_container_height">360dip</dimen>
-    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-sw600dp/values-sw600dp.xml -->
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml -->
     <eat-comment/>
     <integer name="abc_max_action_buttons">5</integer>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/values-sw600dp/values-sw600dp.xml -->
