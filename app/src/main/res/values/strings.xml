@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">batprice</string>
-    <string name="app_title">batprice</string>
+    <string name="app_name">Batprice</string>
+    <string name="app_title">Batprice</string>
     <string name="title_activity_show_location">ShowLocationActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>

@@ -60,9 +60,7 @@
         <activity
             android:name=".GeoActivity"
             android:label="@string/title_activity_geo"></activity>
-        <activity
-            android:name=".IconTextTabsActivity"
-            android:label="@string/title_activity_icon_text_tab"></activity>
+
     </application>
 
 </manifest>

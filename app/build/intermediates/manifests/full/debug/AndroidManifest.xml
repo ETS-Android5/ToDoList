@@ -60,9 +60,6 @@
         <activity
             android:name="com.example.TodoList.GeoActivity"
             android:label="@string/title_activity_geo" />
-        <activity
-            android:name="com.example.TodoList.IconTextTabsActivity"
-            android:label="@string/title_activity_icon_text_tab" />
     </application>
 
 </manifest>

@@ -401,8 +401,8 @@
     <string name="action_sign_in_short">Einloggen</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">batprice</string>
-    <string name="app_title">batprice</string>
+    <string name="app_name">Batprice</string>
+    <string name="app_title">Batprice</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
