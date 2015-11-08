@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:orientation="vertical">
+    android:layout_height="fill_parent">
+
 
     <ListView
         android:id="@android:id/list"
@@ -10,38 +12,18 @@
         android:layout_height="350dp"
         android:layout_margin="5dp" />
 
-    <Button
+
+    <TextView
+        android:id="@+id/taskTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="clip_vertical"
-        android:onClick="onGeoLocationButtonClick"
-        android:text="Your Location" />
+        android:layout_alignBottom="@+id/doneButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/doneButton"
+        android:gravity="center_vertical"
+        android:text="New Text"
+        android:textSize="20dp" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="clip_vertical"
-        android:onClick="onSubmitPriceClick"
-        android:text="Submit a price" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="clip_vertical"
-        android:onClick="onScrollViewButtonClick"
-        android:text="Scrollview" />
-
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="clip_vertical"
-        android:onClick="onWebViewButtonClick"
-        android:text="Webview" />
-
-    <WebView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/webView1"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
-
-</LinearLayout>
+</RelativeLayout>
