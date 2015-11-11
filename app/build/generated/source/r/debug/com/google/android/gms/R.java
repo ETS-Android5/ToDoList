@@ -125,7 +125,7 @@ public final class R {
 		public static final int selectionDetails = 0x7f0b0041;
 		public static final int strict_sandbox = 0x7f0b003f;
 		public static final int terrain = 0x7f0b0032;
-		public static final int text2 = 0x7f0b0097;
+		public static final int text2 = 0x7f0b0098;
 		public static final int wrap_content = 0x7f0b003a;
 	}
 	public static final class integer {
@@ -164,8 +164,8 @@ public final class R {
 		public static final int create_calendar_message = 0x7f05003d;
 		public static final int create_calendar_title = 0x7f05003e;
 		public static final int decline = 0x7f05003f;
-		public static final int store_picture_message = 0x7f050052;
-		public static final int store_picture_title = 0x7f050053;
+		public static final int store_picture_message = 0x7f050055;
+		public static final int store_picture_title = 0x7f050056;
 		public static final int wallet_buy_button_place_holder = 0x7f05002e;
 	}
 	public static final class style {

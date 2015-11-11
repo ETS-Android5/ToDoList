@@ -20,8 +20,6 @@
     <string name="three">THREE</string>
     <string name="two">TWO</string>
     <string name="one">ONE</string>
-    <string name="text_welcome">This is Batprice! Retain prices for products of daily use in
-    your nearby location</string>
     <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
     <string name="title_activity_simple_tabs">Simple Tabs</string>
     <string name="btn_simple_tabs">Simple Tabs</string>
@@ -36,6 +34,8 @@
     <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="hello_world">Hello world!</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="done">Erledigt</string>
+    <string name="details">Details</string>
+    <string name="newText">New Text</string>
 
 </resources>

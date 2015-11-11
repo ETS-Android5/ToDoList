@@ -451,6 +451,8 @@
     <string name="decline">Decline</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="details">Details</string>
+    <string name="done">Erledigt</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="eight">EIGHT</string>
@@ -466,6 +468,7 @@
     <string name="five">FIVE</string>
     <string name="four">FOUR</string>
     <string name="hello_world">Hello world!</string>
+    <string name="newText">New Text</string>
     <string name="nine">NINE</string>
     <string name="one">ONE</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings_activity_login.xml -->
@@ -489,8 +492,6 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="ten">TEN</string>
-    <string name="text_welcome">This is Batprice! Retain prices for products of daily use in
-    your nearby location</string>
     <string name="three">THREE</string>
     <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
     <string name="title_activity_geo">Your current location is:</string>

@@ -1,48 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:orientation="vertical">
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
 
     <ListView
-        android:id="@android:id/list"
-        android:layout_width="match_parent"
-        android:layout_height="350dp"
-        android:layout_margin="5dp" />
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@android:id/list"
+            android:layout_weight="1"
+            android:layout_margin="5dp"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="clip_vertical"
-        android:onClick="onGeoLocationButtonClick"
-        android:text="Your Location" />
+        android:id="@+id/action_add_task"
+        android:onClick="action_add_task"
+        android:title="Add article"  />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/done"
+        android:id="@+id/doneButton"
+        android:onClick="onDoneButtonClick"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="clip_vertical"
-        android:onClick="onSubmitPriceClick"
-        android:text="Submit a price" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="clip_vertical"
-        android:onClick="onScrollViewButtonClick"
-        android:text="Scrollview" />
-
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="clip_vertical"
-        android:onClick="onWebViewButtonClick"
-        android:text="Webview" />
-
-    <WebView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/webView1"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:id="@+id/addButton"
+        android:onClick="onAddButtonClick"
+        android:title="Add article"/>
 
 </LinearLayout>
 
