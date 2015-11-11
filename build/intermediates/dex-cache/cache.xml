@@ -9,11 +9,32 @@
         <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f48688b428031343e803f667f5509d26c06ef4b3.jar" />
     </item>
     <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-25365ffed68ef5e1e24d3f8b603692a1dadb91f5.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-93af43f9681b51a39b52638bfdeb3eb401684955.jar" />
+    </item>
+    <item
         jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
         <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" />
+    </item>
+    <item
+        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-05666af103f894cf65cba726a28b907b7f00690f.jar" />
     </item>
     <item
         jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/jars/classes.jar"
@@ -35,27 +56,6 @@
         revision="23.0.1"
         sha1="a6901af1d022478afa249454bd2ddcc3992ab37f">
         <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-93af43f9681b51a39b52638bfdeb3eb401684955.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-25365ffed68ef5e1e24d3f8b603692a1dadb91f5.jar" />
-    </item>
-    <item
-        jar="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/pre-dexed/debug/classes-05666af103f894cf65cba726a28b907b7f00690f.jar" />
     </item>
 
 </items>
