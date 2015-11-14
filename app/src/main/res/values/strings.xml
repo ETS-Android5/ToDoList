@@ -36,6 +36,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="done">Erledigt</string>
     <string name="details">Details</string>
-    <string name="newText">New Text</string>
+    <string name="pick_time">Details</string>
+    <string name="task_detail">Aufgaben Detailbeschreibung</string>
+    <string name="task_relevance">Handelt es sich um ein Favourite To Do?</string>
+    <string name="pick_date">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
+    <string name="show">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
 
 </resources>
