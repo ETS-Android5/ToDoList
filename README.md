@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Batprice is a real-time shopping application
 
 ### What is this repository for? ###
 
@@ -10,12 +10,9 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Checkout the repository
+* Build the project with gradle
+* Run the app
 
 ### Contribution guidelines ###
 
@@ -25,5 +22,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Bastian Bechtle: service@die-web-agenten.de
+* All rights reserved, no public license
