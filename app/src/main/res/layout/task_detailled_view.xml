@@ -4,33 +4,79 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-
-    <ListView
-        android:id="@android:id/list"
-        android:layout_width="match_parent"
-        android:layout_height="350dp"
-        android:layout_margin="5dp" />
-
-
     <EditText
         android:id="@+id/task_description"
-        android:layout_width="fill_parent"
+        android:inputType="textMultiLine"
+        android:lines="8"
+        android:minLines="6"
+        android:gravity="top|left"
+        android:maxLines="10"
         android:layout_height="wrap_content"
-        android:hint="@string/task_detail"
-        android:inputType="textMultiLine" />
+        android:layout_width="fill_parent"
+        android:scrollbars="vertical"
+        />
 
-    <DatePicker
+    <CheckBox
+        android:id="@+id/chkIos"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:id="@+id/date_picker"/>
+        android:layout_height="wrap_content"
+        android:text="@string/chk_ios" />
 
     <EditText
         android:id="@+id/task_relevance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/task_relevance"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/task_due_date"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:hint="@string/task_relevance"
         android:inputType="text" />
 
+    <EditText
+        android:id="@+id/myNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:digits="0123456789."
+        android:inputType="numberDecimal"
+        />
 
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/task_relevance"
+        android:inputType="number" />
+
+    <CheckBox
+        android:id="@+id/chkAndroid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_android"
+        android:checked="true" />
+
+    <CheckBox
+        android:id="@+id/chkWindows"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_windows" />
+
+    <Button
+        android:id="@+id/btnDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_display" />
+
+
+    <!--
+    <DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:gravity="bottom|start"
+        android:id="@+id/date_picker"/>-->
 </RelativeLayout>
 

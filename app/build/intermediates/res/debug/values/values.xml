@@ -450,6 +450,7 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="btn_display">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
     <string name="btn_icon_tabs">Only Icon Tabs</string>
     <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
     <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
@@ -460,6 +461,11 @@
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
+    <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="chk_android">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
+    <string name="chk_ios">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
+    <string name="chk_windows">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
@@ -545,7 +551,6 @@
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="seven">SEVEN</string>
-    <string name="show">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
     <string name="six">SIX</string>
     <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values/values.xml -->
     <eat-comment/>

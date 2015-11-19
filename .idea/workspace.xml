@@ -10,11 +10,194 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a561df24-076e-4105-a995-08423ae10c99" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/palette_v7_23_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_ads_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_analytics_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appinvite_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appstate_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_auth_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_base_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_basement_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_cast_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_drive_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_fitness_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_games_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_gcm_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_identity_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_location_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_maps_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_measurement_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_nearby_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_panorama_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_plus_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_safetynet_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_vision_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_wallet_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_wearable_8_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sliding_activity_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/LoginActivity$UserLoginTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/LoginActivity$UserLoginTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/ads/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/ads/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/analytics/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/analytics/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appinvite/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appinvite/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appstate/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appstate/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/auth/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/auth/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/base/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/base/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/cast/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/cast/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/drive/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/drive/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/fitness/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/fitness/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/games/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/games/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/gcm/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/gcm/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/identity/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/identity/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/location/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/location/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/maps/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/maps/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/measurement/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/measurement/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/nearby/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/nearby/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/panorama/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/panorama/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/plus/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/plus/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/vision/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/vision/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wallet/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wallet/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wearable/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wearable/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/klinker/android/sliding/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/klinker/android/sliding/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/ads/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/ads/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/analytics/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/analytics/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appinvite/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appinvite/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appstate/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/appstate/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/auth/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/auth/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/base/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/base/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/cast/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/cast/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/drive/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/drive/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/fitness/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/fitness/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/games/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/games/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/gcm/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/gcm/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/identity/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/identity/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/location/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/location/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/maps/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/maps/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/measurement/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/measurement/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/nearby/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/nearby/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/panorama/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/panorama/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/plus/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/plus/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/safetynet/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/vision/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/vision/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wallet/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wallet/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wearable/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/wearable/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/klinker/android/sliding/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/klinker/android/sliding/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TabActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TabActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_22_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_22_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5b9681c5a4c40a01bfc77ef63d2de5ee80aa5938.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5b9681c5a4c40a01bfc77ef63d2de5ee80aa5938.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/TodoList/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/TodoList/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/ads/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/ads/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/analytics/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/analytics/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/appinvite/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/appstate/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/appstate/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/auth/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/auth/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/base/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/base/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/cast/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/cast/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/drive/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/drive/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/fitness/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/fitness/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/games/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/games/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/gcm/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/gcm/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/identity/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/identity/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/location/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/location/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/maps/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/maps/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/measurement/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/measurement/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/nearby/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/nearby/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/panorama/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/panorama/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/plus/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/plus/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/safetynet/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/vision/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/vision/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/wallet/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/wearable/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/klinker/android/sliding/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/klinker/android/sliding/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_detailled_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_detailled_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Batprice.iws" />
@@ -45,18 +228,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,7 +242,7 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+              <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -81,11 +252,13 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/TaskActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="241" column="45" selection-start-line="241" selection-start-column="45" selection-end-line="241" selection-end-column="45" />
+              <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#10767#10768#0" expanded="true" />
-                <element signature="e#10813#10814#0" expanded="true" />
+                <element signature="e#9128#9478#0" expanded="true" />
+                <element signature="e#9477#9478#0" expanded="true" />
+                <element signature="e#9811#10396#0" expanded="true" />
+                <element signature="e#10395#10396#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,7 +268,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/TimePickerFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,9 +279,13 @@
       <file leaf-file-name="task_detailled_view.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.344828">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="13.965517">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#935#959#0" expanded="true" />
+                <element signature="e#1160#1184#0" expanded="true" />
+                <element signature="e#1573#1597#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -116,25 +293,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.528914">
+            <state vertical-scroll-proportion="0.0">
               <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_detail_view.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detail_view.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
+          <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -143,17 +310,17 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+            <state vertical-scroll-proportion="2.4">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -794,6 +961,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare org.osmdroid:osmdroid-android:5.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareOrgOsmdroidOsmdroidAndroid501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1467,6 +1639,11 @@
                 <option name="name" value="prepareDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare org.osmdroid:osmdroid-android:5.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareOrgOsmdroidOsmdroidAndroid501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareReleaseDependencies" />
               </ExternalTaskPojo>
@@ -1588,7 +1765,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4333089161000" />
+        <entry key="$PROJECT_DIR$" value="4333355110000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1760,6 +1937,7 @@
                             <option value="$USER_HOME$/Library/Android/sdk/extras/google/m2repository/com/google/android/gms/play-services-ads/8.3.0/play-services-ads-8.3.0.aar" />
                             <option value="$USER_HOME$/Library/Android/sdk/extras/google/m2repository/com/google/android/gms/play-services-identity/8.3.0/play-services-identity-8.3.0.aar" />
                             <option value="$USER_HOME$/Library/Android/sdk/extras/google/m2repository/com/google/android/gms/play-services-gcm/8.3.0/play-services-gcm-8.3.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osmdroid/osmdroid-android/5.0.1/86b7643690cf78d80c8cf961180407125fce93df/osmdroid-android-5.0.1.aar" />
                             <option value="$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
                             <option value="$USER_HOME$/Library/Android/sdk/extras/google/m2repository/com/google/android/gms/play-services-analytics/8.3.0/play-services-analytics-8.3.0.aar" />
                             <option value="$USER_HOME$/Library/Android/sdk/extras/google/m2repository/com/google/android/gms/play-services-appindexing/8.3.0/play-services-appindexing-8.3.0.aar" />
@@ -1965,13 +2143,16 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/task_detail_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/DatePickerFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/TimePickerFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/TaskActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/SetDate.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/OnDateSetListenerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/DatePickerDialogFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/TimePickerFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/TaskActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -1986,8 +2167,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="487" />
+    <option name="y" value="23" />
+    <option name="width" value="953" />
+    <option name="height" value="871" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1995,6 +2178,9 @@
         <expanded-state>
           <State>
             <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
           </State>
           <State>
             <id>Java</id>
@@ -2005,7 +2191,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>MalformedFormatString</id>
+            <id>AndroidLintValidFragment</id>
           </State>
         </selected-state>
       </profile-state>
@@ -2035,6 +2221,9 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2293,9 +2482,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2307,16 +2493,18 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.315508" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_One_API_23" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FancyToDoList 2" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/build/generated/source/r/androidTest/debug" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -2551,7 +2739,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="487" y="23" width="953" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2559,7 +2747,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07617896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.63917524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2567,14 +2755,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7068742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4619355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23402777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4973822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3798531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6015625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2602,48 +2790,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_one.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="50" />
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_geo.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show_location.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/LoginActivity.java">
@@ -2661,25 +2843,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_location.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_geo.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings_activity_login.xml">
@@ -2801,14 +2983,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_icon_text_tabs.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="50" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/TwoFragment.java">
@@ -2819,25 +3001,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_three.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_two.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_two.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.793103">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/ThreeFragment.java">
@@ -2848,25 +3030,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show_location.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-23/android/app/Dialog.java">
@@ -2877,14 +3059,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_one.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/OneFragment.java">
@@ -2910,14 +3092,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/checkbox.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/LoginActivity.java">
@@ -2928,47 +3110,47 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="42" selection-start-line="11" selection-start-column="4" selection-end-line="15" selection-end-column="42" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_view.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_view.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detail_view.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detail_view.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java">
@@ -2979,6 +3161,17 @@
             <element signature="imports" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2992,33 +3185,7 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/TimePickerFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -3026,30 +3193,54 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/TaskActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="241" column="45" selection-start-line="241" selection-start-column="45" selection-end-line="241" selection-end-column="45" />
+          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#10767#10768#0" expanded="true" />
-            <element signature="e#10813#10814#0" expanded="true" />
+            <element signature="e#9128#9478#0" expanded="true" />
+            <element signature="e#9477#9478#0" expanded="true" />
+            <element signature="e#9811#10396#0" expanded="true" />
+            <element signature="e#10395#10396#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/fragments/TimePickerFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.344828">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detailled_view.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.528914">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state vertical-scroll-proportion="13.965517">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#935#959#0" expanded="true" />
+            <element signature="e#1160#1184#0" expanded="true" />
+            <element signature="e#1573#1597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
           <folding />
         </state>
       </provider>

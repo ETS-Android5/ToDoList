@@ -160,6 +160,7 @@ MERGED from com.android.support:support-v4:23.1.1:20:5
 MERGED from com.google.android.gms:play-services-measurement:8.3.0:18:5
 MERGED from com.google.android.gms:play-services-basement:8.3.0:18:5
 MERGED from com.android.support:support-v4:23.1.1:20:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:4:2
 	android:targetSdkVersion
 		ADDED from AndroidManifest.xml:10:9
 		INJECTED from AndroidManifest.xml:0:0
@@ -197,14 +198,17 @@ MERGED from com.google.android.gms:play-services-maps:8.3.0:21:5
 MERGED from com.google.android.gms:play-services-ads:8.3.0:20:5
 MERGED from com.google.android.gms:play-services-gcm:8.3.0:22:5
 MERGED from com.google.android.gms:play-services-measurement:8.3.0:21:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:11:2
 	android:name
 		ADDED from AndroidManifest.xml:15:22
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from AndroidManifest.xml:16:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:7:2
 	android:name
 		ADDED from AndroidManifest.xml:16:22
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from AndroidManifest.xml:17:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:12:2
 	android:name
 		ADDED from AndroidManifest.xml:17:22
 uses-permission#android.permission.READ_PHONE_STATE
@@ -213,6 +217,7 @@ ADDED from AndroidManifest.xml:18:5
 		ADDED from AndroidManifest.xml:18:22
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from AndroidManifest.xml:19:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:13:2
 	android:name
 		ADDED from AndroidManifest.xml:19:22
 uses-permission#android.permission.READ_CALL_LOG
@@ -244,10 +249,21 @@ MERGED from com.google.android.gms:play-services-nearby:8.3.0:19:5
 MERGED from com.google.android.gms:play-services-maps:8.3.0:20:5
 MERGED from com.google.android.gms:play-services-ads:8.3.0:21:5
 MERGED from com.google.android.gms:play-services-measurement:8.3.0:22:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:10:2
 	android:name
 		ADDED from AndroidManifest.xml:24:22
-application
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from AndroidManifest.xml:25:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:8:2
+	android:name
+		ADDED from AndroidManifest.xml:25:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from AndroidManifest.xml:26:5
+MERGED from org.osmdroid:osmdroid-android:5.0.1:9:2
+	android:name
+		ADDED from AndroidManifest.xml:26:22
+application
+ADDED from AndroidManifest.xml:30:5
 MERGED from com.android.support:appcompat-v7:23.1.1:22:5
 MERGED from com.android.support:support-v4:23.1.1:22:5
 MERGED from com.google.android.gms:play-services:8.3.0:19:5
@@ -365,17 +381,17 @@ MERGED from com.google.android.gms:play-services-measurement:8.3.0:26:5
 MERGED from com.google.android.gms:play-services-basement:8.3.0:20:5
 MERGED from com.android.support:support-v4:23.1.1:22:5
 	android:label
-		ADDED from AndroidManifest.xml:28:9
+		ADDED from AndroidManifest.xml:32:9
 	android:icon
-		ADDED from AndroidManifest.xml:27:9
+		ADDED from AndroidManifest.xml:31:9
 meta-data#com.google.android.geo.API_KEY
-ADDED from AndroidManifest.xml:30:9
+ADDED from AndroidManifest.xml:34:9
 	android:name
-		ADDED from AndroidManifest.xml:31:13
+		ADDED from AndroidManifest.xml:35:13
 	android:value
-		ADDED from AndroidManifest.xml:32:13
+		ADDED from AndroidManifest.xml:36:13
 meta-data#com.google.android.gms.version
-ADDED from AndroidManifest.xml:33:9
+ADDED from AndroidManifest.xml:37:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
@@ -412,11 +428,11 @@ MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 	tools:replace
-		ADDED from AndroidManifest.xml:35:13
+		ADDED from AndroidManifest.xml:39:13
 	android:name
-		ADDED from AndroidManifest.xml:34:13
+		ADDED from AndroidManifest.xml:38:13
 	android:value
-		ADDED from AndroidManifest.xml:36:13
+		ADDED from AndroidManifest.xml:40:13
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
@@ -453,55 +469,55 @@ MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
 activity#com.example.TodoList.LoginActivity
-ADDED from AndroidManifest.xml:38:9
+ADDED from AndroidManifest.xml:42:9
 	android:label
-		ADDED from AndroidManifest.xml:40:13
+		ADDED from AndroidManifest.xml:44:13
 	android:name
-		ADDED from AndroidManifest.xml:39:13
+		ADDED from AndroidManifest.xml:43:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:41:13
+ADDED from AndroidManifest.xml:45:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:42:17
+ADDED from AndroidManifest.xml:46:17
 	android:name
-		ADDED from AndroidManifest.xml:42:25
+		ADDED from AndroidManifest.xml:46:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:44:17
+ADDED from AndroidManifest.xml:48:17
 	android:name
-		ADDED from AndroidManifest.xml:44:27
+		ADDED from AndroidManifest.xml:48:27
 activity#com.example.TodoList.MainActivity
-ADDED from AndroidManifest.xml:47:9
+ADDED from AndroidManifest.xml:51:9
 	android:label
-		ADDED from AndroidManifest.xml:49:13
+		ADDED from AndroidManifest.xml:53:13
 	android:name
-		ADDED from AndroidManifest.xml:48:13
-activity#com.example.TodoList.TaskActivity
-ADDED from AndroidManifest.xml:50:9
-	android:label
 		ADDED from AndroidManifest.xml:52:13
-	android:name
-		ADDED from AndroidManifest.xml:51:13
-activity#com.example.TodoList.NormalActivity
-ADDED from AndroidManifest.xml:53:9
-	android:theme
-		ADDED from AndroidManifest.xml:57:13
-	android:excludeFromRecents
-		ADDED from AndroidManifest.xml:55:13
-	android:taskAffinity
+activity#com.example.TodoList.TaskActivity
+ADDED from AndroidManifest.xml:54:9
+	android:label
 		ADDED from AndroidManifest.xml:56:13
 	android:name
-		ADDED from AndroidManifest.xml:54:13
-activity#com.example.TodoList.SubmitPriceActivity
-ADDED from AndroidManifest.xml:58:9
-	android:label
+		ADDED from AndroidManifest.xml:55:13
+activity#com.example.TodoList.NormalActivity
+ADDED from AndroidManifest.xml:57:9
+	android:theme
+		ADDED from AndroidManifest.xml:61:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:59:13
+	android:taskAffinity
 		ADDED from AndroidManifest.xml:60:13
 	android:name
-		ADDED from AndroidManifest.xml:59:13
-activity#com.example.TodoList.GeoActivity
-ADDED from AndroidManifest.xml:61:9
+		ADDED from AndroidManifest.xml:58:13
+activity#com.example.TodoList.SubmitPriceActivity
+ADDED from AndroidManifest.xml:62:9
 	android:label
-		ADDED from AndroidManifest.xml:63:13
+		ADDED from AndroidManifest.xml:64:13
 	android:name
-		ADDED from AndroidManifest.xml:62:13
+		ADDED from AndroidManifest.xml:63:13
+activity#com.example.TodoList.GeoActivity
+ADDED from AndroidManifest.xml:65:9
+	android:label
+		ADDED from AndroidManifest.xml:67:13
+	android:name
+		ADDED from AndroidManifest.xml:66:13
 activity#com.google.android.gms.ads.AdActivity
 ADDED from com.google.android.gms:play-services-ads:8.3.0:26:9
 MERGED from com.google.android.gms:play-services-ads:8.3.0:26:9
@@ -586,3 +602,35 @@ uses-permission#android.permission.USE_CREDENTIALS
 ADDED from com.google.android.gms:play-services-wallet:8.3.0:22:5
 	android:name
 		ADDED from com.google.android.gms:play-services-wallet:8.3.0:22:22
+supports-screens
+ADDED from org.osmdroid:osmdroid-android:5.0.1:5:2
+	android:largeScreens
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:5:46
+	android:anyDensity
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:5:20
+	android:normalScreens
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:5:74
+uses-feature#android.hardware.location.network
+ADDED from org.osmdroid:osmdroid-android:5.0.1:15:2
+	android:required
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:15:65
+	android:name
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:15:16
+uses-feature#android.hardware.location.gps
+ADDED from org.osmdroid:osmdroid-android:5.0.1:16:2
+	android:required
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:16:61
+	android:name
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:16:16
+uses-feature#android.hardware.telephony
+ADDED from org.osmdroid:osmdroid-android:5.0.1:17:2
+	android:required
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:17:58
+	android:name
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:17:16
+uses-feature#android.hardware.wifi
+ADDED from org.osmdroid:osmdroid-android:5.0.1:18:2
+	android:required
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:18:53
+	android:name
+		ADDED from org.osmdroid:osmdroid-android:5.0.1:18:16
