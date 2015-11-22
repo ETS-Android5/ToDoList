@@ -44,5 +44,6 @@
     <string name="chk_android">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
     <string name="chk_windows">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
     <string name="btn_display">Bitte geben Sie ein Fälligkeitsdatum für die Aufgabe ein</string>
+    <string name="text_checkbox">Handelt es sich um ein Favourite To Do?</string>
 
 </resources>

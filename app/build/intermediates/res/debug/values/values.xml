@@ -567,6 +567,7 @@
     <string name="task_detail">Aufgaben Detailbeschreibung</string>
     <string name="task_relevance">Handelt es sich um ein Favourite To Do?</string>
     <string name="ten">TEN</string>
+    <string name="text_checkbox">Handelt es sich um ein Favourite To Do?</string>
     <string name="three">THREE</string>
     <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
     <string name="title_activity_geo">Your current location is:</string>
