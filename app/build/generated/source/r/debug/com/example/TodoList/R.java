@@ -2736,7 +2736,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int action0=0x7f0c00b5;
-        public static final int action_add_task=0x7f0c00dc;
+        public static final int action_add_task=0x7f0c00d7;
         public static final int action_bar=0x7f0c007f;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c007e;
@@ -2752,9 +2752,9 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c007c;
         public static final int action_mode_bar_stub=0x7f0c007b;
         public static final int action_mode_close_button=0x7f0c0061;
-        public static final int action_remove_task=0x7f0c00dd;
-        public static final int action_settings=0x7f0c00df;
-        public static final int action_show_mylocation=0x7f0c00de;
+        public static final int action_remove_task=0x7f0c00d8;
+        public static final int action_settings=0x7f0c00da;
+        public static final int action_show_mylocation=0x7f0c00d9;
         public static final int activity_chooser_view_content=0x7f0c0062;
         public static final int adjust_height=0x7f0c0032;
         public static final int adjust_width=0x7f0c0033;
@@ -2770,7 +2770,6 @@ containing a value of this type.
         public static final int book_now=0x7f0c004e;
         public static final int bottom=0x7f0c001b;
         public static final int btnCapture=0x7f0c00a2;
-        public static final int btnDisplay=0x7f0c00d8;
         public static final int buttonPanel=0x7f0c0069;
         public static final int buttons=0x7f0c00b2;
         public static final int buyButton=0x7f0c004b;
@@ -2783,9 +2782,6 @@ containing a value of this type.
         public static final int center_horizontal=0x7f0c001d;
         public static final int center_vertical=0x7f0c001e;
         public static final int checkbox=0x7f0c0077;
-        public static final int chkAndroid=0x7f0c00d6;
-        public static final int chkIos=0x7f0c00d2;
-        public static final int chkWindows=0x7f0c00d7;
         public static final int choice=0x7f0c0093;
         public static final int chooseRadio=0x7f0c0095;
         public static final int chronometer=0x7f0c00bc;
@@ -2802,12 +2798,12 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c007d;
         public static final int default_activity_button=0x7f0c0065;
         public static final int default_control_frame=0x7f0c00ab;
-        public static final int detailButton=0x7f0c00db;
+        public static final int detailButton=0x7f0c00d6;
         public static final int disableHome=0x7f0c000e;
         public static final int disconnect=0x7f0c00b3;
         public static final int donate_with=0x7f0c0052;
         public static final int donate_with_google=0x7f0c0053;
-        public static final int doneButton=0x7f0c00da;
+        public static final int doneButton=0x7f0c00d5;
         public static final int edit_query=0x7f0c0081;
         public static final int email=0x7f0c009c;
         public static final int email_login_form=0x7f0c009b;
@@ -2866,7 +2862,7 @@ containing a value of this type.
         public static final int monochrome=0x7f0c005d;
         public static final int multiply=0x7f0c0025;
         public static final int multiscroller=0x7f0c00c2;
-        public static final int myNumber=0x7f0c00d5;
+        public static final int myNumber=0x7f0c00d3;
         public static final int never=0x7f0c003a;
         public static final int none=0x7f0c0010;
         public static final int normal=0x7f0c000c;
@@ -2930,10 +2926,9 @@ containing a value of this type.
         public static final int subtitle=0x7f0c00af;
         public static final int tabMode=0x7f0c000d;
         public static final int tabs=0x7f0c0090;
-        public static final int taskTextView=0x7f0c00d9;
+        public static final int taskTextView=0x7f0c00d4;
         public static final int task_description=0x7f0c00d1;
-        public static final int task_due_date=0x7f0c00d4;
-        public static final int task_relevance=0x7f0c00d3;
+        public static final int task_relevance=0x7f0c00d2;
         public static final int terrain=0x7f0c0036;
         public static final int test=0x7f0c004a;
         public static final int text=0x7f0c00bf;
