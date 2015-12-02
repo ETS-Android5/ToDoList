@@ -756,7 +756,7 @@ int drawable previous 0x7f0200a8
 int drawable zoom_in 0x7f0200a9
 int drawable zoom_out 0x7f0200aa
 int id action0 0x7f0c00b5
-int id action_add_task 0x7f0c00d6
+int id action_add_task 0x7f0c00d7
 int id action_bar 0x7f0c007f
 int id action_bar_activity_content 0x7f0c0000
 int id action_bar_container 0x7f0c007e
@@ -772,9 +772,9 @@ int id action_menu_presenter 0x7f0c0003
 int id action_mode_bar 0x7f0c007c
 int id action_mode_bar_stub 0x7f0c007b
 int id action_mode_close_button 0x7f0c0061
-int id action_remove_task 0x7f0c00d7
-int id action_settings 0x7f0c00d9
-int id action_show_mylocation 0x7f0c00d8
+int id action_remove_task 0x7f0c00d8
+int id action_settings 0x7f0c00da
+int id action_show_mylocation 0x7f0c00d9
 int id activity_chooser_view_content 0x7f0c0062
 int id adjust_height 0x7f0c0032
 int id adjust_width 0x7f0c0033
@@ -818,6 +818,7 @@ int id dark 0x7f0c0040
 int id decor_content_parent 0x7f0c007d
 int id default_activity_button 0x7f0c0065
 int id default_control_frame 0x7f0c00ab
+int id detailButton 0x7f0c00d6
 int id disableHome 0x7f0c000e
 int id disconnect 0x7f0c00b3
 int id donate_with 0x7f0c0052
