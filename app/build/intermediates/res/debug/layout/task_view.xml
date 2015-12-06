@@ -16,6 +16,13 @@
             android:layout_alignBottom="@+id/doneButton"
             android:gravity="center_vertical"/>
 
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/describetaskButton"
+            android:onClick="onDescribeTaskClick"
+            android:showAsAction="always"
+            android:title="Details hinzufügen" />
 
     <Button
             android:layout_width="wrap_content"

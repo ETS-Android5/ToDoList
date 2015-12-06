@@ -79,8 +79,7 @@
                 android:maxLines="10"
                 android:layout_height="wrap_content"
                 android:layout_width="fill_parent"
-                android:scrollbars="vertical"
-                />
+                android:scrollbars="vertical" />
 
             <EditText
                 android:id="@+id/task_relevance"
