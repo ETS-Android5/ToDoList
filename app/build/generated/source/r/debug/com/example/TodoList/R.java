@@ -2798,8 +2798,8 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c007d;
         public static final int default_activity_button=0x7f0c0065;
         public static final int default_control_frame=0x7f0c00aa;
-        public static final int describetaskButton=0x7f0c00d5;
-        public static final int detailButton=0x7f0c00d6;
+        public static final int describetaskButton=0x7f0c00d6;
+        public static final int detailButton=0x7f0c00d5;
         public static final int disableHome=0x7f0c000e;
         public static final int disconnect=0x7f0c00b2;
         public static final int donate_with=0x7f0c0052;

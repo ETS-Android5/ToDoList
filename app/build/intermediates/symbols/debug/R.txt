@@ -818,8 +818,8 @@ int id dark 0x7f0c0040
 int id decor_content_parent 0x7f0c007d
 int id default_activity_button 0x7f0c0065
 int id default_control_frame 0x7f0c00aa
-int id describetaskButton 0x7f0c00d5
-int id detailButton 0x7f0c00d6
+int id describetaskButton 0x7f0c00d6
+int id detailButton 0x7f0c00d5
 int id disableHome 0x7f0c000e
 int id disconnect 0x7f0c00b2
 int id donate_with 0x7f0c0052

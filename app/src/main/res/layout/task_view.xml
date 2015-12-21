@@ -12,9 +12,9 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:textSize="20dp"
-            android:layout_toLeftOf="@+id/doneButton"
-            android:layout_alignBottom="@+id/doneButton"
-            android:gravity="center_vertical"/>
+        android:layout_alignBottom="@+id/doneButton"
+            android:gravity="center_vertical"
+        android:layout_toStartOf="@+id/detailButton" />
 
     <Button
         android:layout_width="wrap_content"
@@ -22,7 +22,9 @@
         android:text="@string/details"
         android:id="@+id/describetaskButton"
         android:onClick="onDescribeTaskClick"
-    />
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/doneButton" />
+        />
 
     <Button
             android:layout_width="wrap_content"
@@ -30,9 +32,9 @@
             android:text="@string/details"
             android:id="@+id/detailButton"
             android:onClick="onDetailViewClick"
-            android:layout_alignParentTop="true"
-            android:layout_toLeftOf="@+id/doneButton"
-            android:layout_toStartOf="@+id/doneButton" />
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/describetaskButton"
+        android:layout_alignBottom="@+id/describetaskButton" />
     <CheckBox
             android:layout_width="30dp"
             android:layout_height="30dp"
