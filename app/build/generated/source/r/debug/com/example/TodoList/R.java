@@ -2736,7 +2736,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int action0=0x7f0c00b4;
-        public static final int action_add_task=0x7f0c00d7;
+        public static final int action_add_task=0x7f0c00d8;
         public static final int action_bar=0x7f0c007f;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c007e;
@@ -2752,9 +2752,9 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c007c;
         public static final int action_mode_bar_stub=0x7f0c007b;
         public static final int action_mode_close_button=0x7f0c0061;
-        public static final int action_remove_task=0x7f0c00d8;
-        public static final int action_settings=0x7f0c00da;
-        public static final int action_show_mylocation=0x7f0c00d9;
+        public static final int action_remove_task=0x7f0c00d9;
+        public static final int action_settings=0x7f0c00db;
+        public static final int action_show_mylocation=0x7f0c00da;
         public static final int activity_chooser_view_content=0x7f0c0062;
         public static final int adjust_height=0x7f0c0032;
         public static final int adjust_width=0x7f0c0033;
@@ -2798,7 +2798,7 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c007d;
         public static final int default_activity_button=0x7f0c0065;
         public static final int default_control_frame=0x7f0c00aa;
-        public static final int describetaskButton=0x7f0c00d6;
+        public static final int describetaskButton=0x7f0c00d7;
         public static final int detailButton=0x7f0c00d5;
         public static final int disableHome=0x7f0c000e;
         public static final int disconnect=0x7f0c00b2;
@@ -2928,6 +2928,7 @@ containing a value of this type.
         public static final int tabs=0x7f0c0090;
         public static final int taskTextView=0x7f0c00d3;
         public static final int task_description=0x7f0c00d0;
+        public static final int task_due_date=0x7f0c00d6;
         public static final int task_relevance=0x7f0c00d1;
         public static final int terrain=0x7f0c0036;
         public static final int test=0x7f0c004a;
