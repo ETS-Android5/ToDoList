@@ -56,7 +56,7 @@
 
         <TextView
             android:id="@+id/textView1"
-            android:layout_width="176dp"
+            android:layout_width="118dp"
             android:layout_height="112dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
@@ -65,8 +65,8 @@
 
         <EditText
             android:id="@+id/task_description"
-            android:layout_width="fill_parent"
-            android:layout_height="match_parent"
+            android:layout_width="155dp"
+            android:layout_height="wrap_content"
             android:gravity="top|left"
             android:inputType="textMultiLine"
             android:lines="8"
@@ -77,12 +77,12 @@
 
 
       <Button
-          android:layout_width="wrap_content"
+          android:layout_width="64dp"
           android:layout_height="wrap_content"
           android:text="@string/details"
           android:id="@+id/describetaskButton"
           android:onClick="onDescribeTaskClick"
-          android:layout_alignParentTop="true" 
+          android:layout_alignParentTop="true"
       />
 
         </LinearLayout>
