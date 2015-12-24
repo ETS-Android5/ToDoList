@@ -225,19 +225,19 @@ ADDED from AndroidManifest.xml:20:5
 	android:name
 		ADDED from AndroidManifest.xml:20:22
 uses-feature#android.hardware.camera
-ADDED from AndroidManifest.xml:21:5
-	android:name
-		ADDED from AndroidManifest.xml:21:19
-uses-feature#android.hardware.camera.autofocus
 ADDED from AndroidManifest.xml:22:5
 	android:name
 		ADDED from AndroidManifest.xml:22:19
-uses-permission#android.permission.CAMERA
+uses-feature#android.hardware.camera.autofocus
 ADDED from AndroidManifest.xml:23:5
 	android:name
-		ADDED from AndroidManifest.xml:23:22
+		ADDED from AndroidManifest.xml:23:19
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:25:5
+	android:name
+		ADDED from AndroidManifest.xml:25:22
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from AndroidManifest.xml:24:5
+ADDED from AndroidManifest.xml:26:5
 MERGED from com.google.android.gms:play-services-ads:8.3.0:21:5
 MERGED from com.google.android.gms:play-services-analytics:8.3.0:22:5
 MERGED from com.google.android.gms:play-services-maps:8.3.0:20:5
@@ -251,19 +251,19 @@ MERGED from com.google.android.gms:play-services-ads:8.3.0:21:5
 MERGED from com.google.android.gms:play-services-measurement:8.3.0:22:5
 MERGED from org.osmdroid:osmdroid-android:5.0.1:10:2
 	android:name
-		ADDED from AndroidManifest.xml:24:22
+		ADDED from AndroidManifest.xml:26:22
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from AndroidManifest.xml:25:5
+ADDED from AndroidManifest.xml:27:5
 MERGED from org.osmdroid:osmdroid-android:5.0.1:8:2
 	android:name
-		ADDED from AndroidManifest.xml:25:22
+		ADDED from AndroidManifest.xml:27:22
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from AndroidManifest.xml:26:5
+ADDED from AndroidManifest.xml:28:5
 MERGED from org.osmdroid:osmdroid-android:5.0.1:9:2
 	android:name
-		ADDED from AndroidManifest.xml:26:22
+		ADDED from AndroidManifest.xml:28:22
 application
-ADDED from AndroidManifest.xml:30:5
+ADDED from AndroidManifest.xml:32:5
 MERGED from com.android.support:appcompat-v7:23.1.1:22:5
 MERGED from com.android.support:support-v4:23.1.1:22:5
 MERGED from com.google.android.gms:play-services:8.3.0:19:5
@@ -381,17 +381,17 @@ MERGED from com.google.android.gms:play-services-measurement:8.3.0:26:5
 MERGED from com.google.android.gms:play-services-basement:8.3.0:20:5
 MERGED from com.android.support:support-v4:23.1.1:22:5
 	android:label
-		ADDED from AndroidManifest.xml:32:9
+		ADDED from AndroidManifest.xml:34:9
 	android:icon
-		ADDED from AndroidManifest.xml:31:9
+		ADDED from AndroidManifest.xml:33:9
 meta-data#com.google.android.geo.API_KEY
-ADDED from AndroidManifest.xml:34:9
+ADDED from AndroidManifest.xml:35:9
 	android:name
-		ADDED from AndroidManifest.xml:35:13
-	android:value
 		ADDED from AndroidManifest.xml:36:13
+	android:value
+		ADDED from AndroidManifest.xml:37:13
 meta-data#com.google.android.gms.version
-ADDED from AndroidManifest.xml:37:9
+ADDED from AndroidManifest.xml:38:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
@@ -428,9 +428,9 @@ MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 	tools:replace
-		ADDED from AndroidManifest.xml:39:13
+		ADDED from AndroidManifest.xml:41:13
 	android:name
-		ADDED from AndroidManifest.xml:38:13
+		ADDED from AndroidManifest.xml:39:13
 	android:value
 		ADDED from AndroidManifest.xml:40:13
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
@@ -469,55 +469,59 @@ MERGED from com.google.android.gms:play-services-basement:8.3.0:21:9
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
 		REJECTED from com.google.android.gms:play-services-basement:8.3.0:23:13
 activity#com.example.TodoList.LoginActivity
-ADDED from AndroidManifest.xml:42:9
+ADDED from AndroidManifest.xml:43:9
 	android:label
+		ADDED from AndroidManifest.xml:45:13
+	android:name
 		ADDED from AndroidManifest.xml:44:13
-	android:name
-		ADDED from AndroidManifest.xml:43:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:45:13
+ADDED from AndroidManifest.xml:46:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:46:17
+ADDED from AndroidManifest.xml:47:17
 	android:name
-		ADDED from AndroidManifest.xml:46:25
+		ADDED from AndroidManifest.xml:47:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:48:17
+ADDED from AndroidManifest.xml:49:17
 	android:name
-		ADDED from AndroidManifest.xml:48:27
+		ADDED from AndroidManifest.xml:49:27
 activity#com.example.TodoList.MainActivity
-ADDED from AndroidManifest.xml:51:9
+ADDED from AndroidManifest.xml:52:9
 	android:label
+		ADDED from AndroidManifest.xml:54:13
+	android:name
 		ADDED from AndroidManifest.xml:53:13
-	android:name
-		ADDED from AndroidManifest.xml:52:13
 activity#com.example.TodoList.TaskActivity
-ADDED from AndroidManifest.xml:54:9
+ADDED from AndroidManifest.xml:56:9
 	android:label
-		ADDED from AndroidManifest.xml:56:13
-	android:name
-		ADDED from AndroidManifest.xml:55:13
-activity#com.example.TodoList.NormalActivity
-ADDED from AndroidManifest.xml:57:9
-	android:theme
-		ADDED from AndroidManifest.xml:61:13
-	android:excludeFromRecents
-		ADDED from AndroidManifest.xml:59:13
-	android:taskAffinity
-		ADDED from AndroidManifest.xml:60:13
-	android:name
 		ADDED from AndroidManifest.xml:58:13
-activity#com.example.TodoList.SubmitPriceActivity
-ADDED from AndroidManifest.xml:62:9
-	android:label
-		ADDED from AndroidManifest.xml:64:13
 	android:name
+		ADDED from AndroidManifest.xml:57:13
+activity#com.example.TodoList.NormalActivity
+ADDED from AndroidManifest.xml:59:9
+	android:theme
 		ADDED from AndroidManifest.xml:63:13
-activity#com.example.TodoList.GeoActivity
-ADDED from AndroidManifest.xml:65:9
-	android:label
-		ADDED from AndroidManifest.xml:67:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:61:13
+	android:taskAffinity
+		ADDED from AndroidManifest.xml:62:13
 	android:name
+		ADDED from AndroidManifest.xml:60:13
+activity#com.example.TodoList.SubmitPriceActivity
+ADDED from AndroidManifest.xml:64:9
+	android:label
 		ADDED from AndroidManifest.xml:66:13
+	android:name
+		ADDED from AndroidManifest.xml:65:13
+activity#com.example.TodoList.GeoActivity
+ADDED from AndroidManifest.xml:67:9
+	android:label
+		ADDED from AndroidManifest.xml:69:13
+	android:name
+		ADDED from AndroidManifest.xml:68:13
+activity#com.example.TodoList.TaskDetailActivity
+ADDED from AndroidManifest.xml:70:9
+	android:name
+		ADDED from AndroidManifest.xml:70:19
 activity#com.google.android.gms.ads.AdActivity
 ADDED from com.google.android.gms:play-services-ads:8.3.0:26:9
 MERGED from com.google.android.gms:play-services-ads:8.3.0:26:9
