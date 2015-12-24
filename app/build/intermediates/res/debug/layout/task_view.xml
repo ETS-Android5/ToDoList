@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/describetaskButton" />
+        />
 
     <Button
         android:layout_width="wrap_content"
@@ -38,9 +38,8 @@
             android:text="@string/details"
             android:id="@+id/detailButton"
             android:onClick="onDetailViewClick"
-        android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/describetaskButton"
-        android:layout_alignBottom="@+id/describetaskButton" />
+            android:layout_alignParentTop="true"
+            android:layout_alignBottom="@+id/describetaskButton" />
     <CheckBox
             android:layout_width="30dp"
             android:layout_height="30dp"

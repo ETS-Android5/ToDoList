@@ -11,7 +11,6 @@
     tools:context="com.example.TodoList.LoginActivity">
 
   <LinearLayout
-        android:id="@+id/email_login_form"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -76,13 +75,23 @@
             android:scrollbars="vertical" />
             <requestFocus />
 
+
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/details"
+          android:id="@+id/describetaskButton"
+          android:onClick="onDescribeTaskClick"
+          android:layout_alignParentTop="true" 
+      />
+
         </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="157dp">
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/textView2"
             android:layout_width="176dp"
             android:layout_height="138dp"
             android:layout_alignParentTop="true"
@@ -102,7 +111,7 @@
         android:layout_height="176dp">
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/textView3"
             android:layout_width="176dp"
             android:layout_height="112dp"
             android:layout_alignParentTop="true"
