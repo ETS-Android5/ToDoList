@@ -818,13 +818,13 @@ int id dark 0x7f0c0040
 int id decor_content_parent 0x7f0c007d
 int id default_activity_button 0x7f0c0065
 int id default_control_frame 0x7f0c00aa
-int id describetaskButton 0x7f0c00d7
-int id detailButton 0x7f0c00d5
+int id describetaskButton 0x7f0c00d5
+int id detailButton 0x7f0c00d6
 int id disableHome 0x7f0c000e
 int id disconnect 0x7f0c00b2
 int id donate_with 0x7f0c0052
 int id donate_with_google 0x7f0c0053
-int id doneButton 0x7f0c00d4
+int id doneCheckBox 0x7f0c00d7
 int id edit_query 0x7f0c0081
 int id email 0x7f0c009c
 int id email_login_form 0x7f0c009b
@@ -948,7 +948,7 @@ int id tabMode 0x7f0c000d
 int id tabs 0x7f0c0090
 int id taskTextView 0x7f0c00d3
 int id task_description 0x7f0c00d0
-int id task_due_date 0x7f0c00d6
+int id task_due_date 0x7f0c00d4
 int id task_relevance 0x7f0c00d1
 int id terrain 0x7f0c0036
 int id test 0x7f0c004a

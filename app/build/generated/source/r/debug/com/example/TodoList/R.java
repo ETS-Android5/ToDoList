@@ -2798,13 +2798,13 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c007d;
         public static final int default_activity_button=0x7f0c0065;
         public static final int default_control_frame=0x7f0c00aa;
-        public static final int describetaskButton=0x7f0c00d7;
-        public static final int detailButton=0x7f0c00d5;
+        public static final int describetaskButton=0x7f0c00d5;
+        public static final int detailButton=0x7f0c00d6;
         public static final int disableHome=0x7f0c000e;
         public static final int disconnect=0x7f0c00b2;
         public static final int donate_with=0x7f0c0052;
         public static final int donate_with_google=0x7f0c0053;
-        public static final int doneButton=0x7f0c00d4;
+        public static final int doneCheckBox=0x7f0c00d7;
         public static final int edit_query=0x7f0c0081;
         public static final int email=0x7f0c009c;
         public static final int email_login_form=0x7f0c009b;
@@ -2928,7 +2928,7 @@ containing a value of this type.
         public static final int tabs=0x7f0c0090;
         public static final int taskTextView=0x7f0c00d3;
         public static final int task_description=0x7f0c00d0;
-        public static final int task_due_date=0x7f0c00d6;
+        public static final int task_due_date=0x7f0c00d4;
         public static final int task_relevance=0x7f0c00d1;
         public static final int terrain=0x7f0c0036;
         public static final int test=0x7f0c004a;
