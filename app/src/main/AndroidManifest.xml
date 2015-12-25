@@ -57,18 +57,10 @@
             android:name=".TaskActivity"
             android:label="@string/app_name" />
         <activity
-            android:name=".NormalActivity"
-            android:excludeFromRecents="true"
-            android:taskAffinity=""
-            android:theme="@style/Theme.Sliding.Light" />
-        <activity
             android:name=".SubmitPriceActivity"
             android:label="@string/title_activity_submit_price" />
         <activity
-            android:name=".GeoActivity"
-            android:label="@string/title_activity_geo" />
-        <activity android:name=".TaskDetailActivity" >
-        </activity>
+            android:name=".TaskDetailActivity"
+            android:label="Task Details" />
     </application>
-
 </manifest>
