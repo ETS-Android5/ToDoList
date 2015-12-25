@@ -11,19 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a561df24-076e-4105-a995-08423ae10c99" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/NormalActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/activity_task_detail.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_task_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$3.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/fragments/OneFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/fragments/OneFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$integer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/klinker/android/sliding/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/klinker/android/sliding/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$raw.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$string.class" />
@@ -31,31 +25,43 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TabActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TabActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/fragments/ThreeFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/fragments/ThreeFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/fragments/TwoFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/fragments/TwoFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-88b9792499b1ede419d3c4a08882ff471f9f30d7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-88b9792499b1ede419d3c4a08882ff471f9f30d7.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" />
@@ -65,20 +71,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/TodoList/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/TodoList/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/klinker/android/sliding/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/klinker/android/sliding/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_detail.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/task_detail.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/task_detail.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_view.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/task_view.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/task_view.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -111,15 +105,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="task_view.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task_view.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_view.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.931034">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state vertical-scroll-proportion="2.28">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="e#935#952#0" expanded="true" />
-                <element signature="e#1291#1308#0" expanded="true" />
-                <element signature="e#1688#1702#0" expanded="true" />
+                <element signature="e#927#944#0" expanded="true" />
+                <element signature="e#1281#1298#0" expanded="true" />
+                <element signature="e#1678#1692#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,8 +125,8 @@
       <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1034484">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.7586207">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -151,11 +145,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+              <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -2062,8 +2056,8 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/TaskDetailActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/TaskActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_view.xml" />
       </list>
     </option>
   </component>
@@ -2078,10 +2072,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="499" />
-    <option name="y" value="23" />
-    <option name="width" value="907" />
-    <option name="height" value="804" />
+    <option name="x" value="500" />
+    <option name="y" value="24" />
+    <option name="width" value="933" />
+    <option name="height" value="869" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -2689,7 +2683,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="499" y="23" width="907" height="804" extended-state="0" />
+    <frame x="500" y="24" width="933" height="869" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2697,7 +2691,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.055555556" sideWeight="0.8413719" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7648579" sideWeight="0.8413719" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36903226" sideWeight="0.15862808" order="7" side_tool="true" content_ui="tabs" />
@@ -2711,8 +2705,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20396914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31161472" sideWeight="0.43329775" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45123258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3113695" sideWeight="0.43329775" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -3120,35 +3114,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_view.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.931034">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding>
-            <element signature="e#935#952#0" expanded="true" />
-            <element signature="e#1291#1308#0" expanded="true" />
-            <element signature="e#1688#1702#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_detail.xml">
@@ -3162,10 +3133,28 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1034484">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.7586207">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3173,14 +3162,19 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/TodoList/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_view.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        <state vertical-scroll-proportion="2.28">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#927#944#0" expanded="true" />
+            <element signature="e#1281#1298#0" expanded="true" />
+            <element signature="e#1678#1692#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>

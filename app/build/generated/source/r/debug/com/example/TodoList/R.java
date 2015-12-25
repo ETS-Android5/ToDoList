@@ -2736,7 +2736,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int action0=0x7f0c00b4;
-        public static final int action_add_task=0x7f0c00db;
+        public static final int action_add_task=0x7f0c00dc;
         public static final int action_bar=0x7f0c007f;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c007e;
@@ -2752,9 +2752,9 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c007c;
         public static final int action_mode_bar_stub=0x7f0c007b;
         public static final int action_mode_close_button=0x7f0c0061;
-        public static final int action_remove_task=0x7f0c00dc;
-        public static final int action_settings=0x7f0c00de;
-        public static final int action_show_mylocation=0x7f0c00dd;
+        public static final int action_remove_task=0x7f0c00dd;
+        public static final int action_settings=0x7f0c00df;
+        public static final int action_show_mylocation=0x7f0c00de;
         public static final int activity_chooser_view_content=0x7f0c0062;
         public static final int adjust_height=0x7f0c0032;
         public static final int adjust_width=0x7f0c0033;
@@ -2799,12 +2799,13 @@ containing a value of this type.
         public static final int default_activity_button=0x7f0c0065;
         public static final int default_control_frame=0x7f0c00aa;
         public static final int describetaskButton=0x7f0c00d2;
-        public static final int detailButton=0x7f0c00d9;
+        public static final int detailButton=0x7f0c00da;
         public static final int disableHome=0x7f0c000e;
         public static final int disconnect=0x7f0c00b2;
         public static final int donate_with=0x7f0c0052;
         public static final int donate_with_google=0x7f0c0053;
-        public static final int doneCheckBox=0x7f0c00da;
+        public static final int doneButton=0x7f0c00d9;
+        public static final int doneCheckBox=0x7f0c00db;
         public static final int edit_query=0x7f0c0081;
         public static final int email=0x7f0c009c;
         public static final int email_login_form=0x7f0c009b;

@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/describetaskButton" />
+        android:layout_toStartOf="@+id/doneButton" />
 
     <Button
         android:layout_width="wrap_content"
@@ -29,7 +29,7 @@
         android:id="@+id/describetaskButton"
         android:onClick="onDescribeTaskClick"
         android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/detailButton" />
+        android:layout_toStartOf="@+id/doneButton" />
         />
 
     <Button
@@ -46,7 +46,7 @@
             android:layout_height="30dp"
             android:text="@string/done"
             android:id="@+id/doneCheckBox"
-            android:onClick="onDoneCheckBoxClick"
+            android:onClick="onDoneButtonClick"
             android:layout_alignParentTop="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true" />
