@@ -6,21 +6,22 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:id="@+id/taskTextView"
         android:textSize="20sp"
-        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/doneButton"
+        android:gravity="center_vertical"
         android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_toStartOf="@+id/detailButton" />
 
     <EditText
         android:id="@+id/task_due_date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="number"
-        android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/doneButton" />
+        android:layout_toEndOf="@+id/taskTextView"
+        android:layout_alignParentTop="true" />
 
     <Button
         android:layout_width="wrap_content"
@@ -45,7 +46,7 @@
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:text="@string/done"
-            android:id="@+id/doneCheckBox"
+            android:id="@+id/doneButton"
             android:onClick="onDoneButtonClick"
             android:layout_alignParentTop="true"
             android:layout_alignParentRight="true"

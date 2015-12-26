@@ -2746,6 +2746,7 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0c0060;
         public static final int action_bar_title=0x7f0c005f;
         public static final int action_context_bar=0x7f0c0080;
+        public static final int action_detail_task=0x7f0c00db;
         public static final int action_divider=0x7f0c00b8;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
@@ -2753,8 +2754,7 @@ containing a value of this type.
         public static final int action_mode_bar_stub=0x7f0c007b;
         public static final int action_mode_close_button=0x7f0c0061;
         public static final int action_remove_task=0x7f0c00dd;
-        public static final int action_settings=0x7f0c00df;
-        public static final int action_show_mylocation=0x7f0c00de;
+        public static final int action_settings=0x7f0c00de;
         public static final int activity_chooser_view_content=0x7f0c0062;
         public static final int adjust_height=0x7f0c0032;
         public static final int adjust_width=0x7f0c0033;
@@ -2805,7 +2805,6 @@ containing a value of this type.
         public static final int donate_with=0x7f0c0052;
         public static final int donate_with_google=0x7f0c0053;
         public static final int doneButton=0x7f0c00d9;
-        public static final int doneCheckBox=0x7f0c00db;
         public static final int edit_query=0x7f0c0081;
         public static final int email=0x7f0c009c;
         public static final int email_login_form=0x7f0c009b;
