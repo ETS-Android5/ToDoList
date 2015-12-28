@@ -81,19 +81,17 @@
           android:layout_height="wrap_content"
           android:text="@string/details"
           android:id="@+id/describetaskButton"
-          android:onClick="onDescribeTaskClick"
-          android:layout_alignParentTop="true"
-      />
+          android:onClick="onDescribeTaskClick" />
 
         </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="157dp">
+        android:layout_height="wrap_content">
 
         <TextView
             android:id="@+id/textView2"
             android:layout_width="176dp"
-            android:layout_height="138dp"
+            android:layout_height="42dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:text="Bis wann muss die Aufgabe erledigt sein?"
@@ -102,13 +100,13 @@
         <EditText
             android:id="@+id/task_due_date"
             android:layout_width="match_parent"
-            android:layout_height="120dp"
+            android:layout_height="wrap_content"
             android:inputType="numberDecimal" />
 
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="176dp">
+        android:layout_height="44dp">
 
         <TextView
             android:id="@+id/textView3"
@@ -123,8 +121,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/task_favourite"
-            android:onClick="clickCheckboxFunction"
-            android:text="@string/text_checkbox" />
+            android:onClick="clickCheckboxFunction"/>
 
     </LinearLayout>
 
@@ -136,26 +133,6 @@
             android:inputType="numberDecimal" />
 
 
-        <!--<CheckBox
-            android:id="@+id/chkAndroid"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/chk_android"
-            android:checked="true" />
-
-        <CheckBox
-            android:id="@+id/chkWindows"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/chk_windows" />
-
-        <Button
-            android:id="@+id/btnDisplay"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/btn_display" />
-
-
 
         <DatePicker
             android:layout_width="match_parent"
@@ -165,6 +142,5 @@
             android:gravity="bottom|start"
             android:id="@+id/date_picker"/>-->
 
-
-    </LinearLayout>
+</LinearLayout>
 <!-- From: file:/Users/bastian/AndroidStudioProjects/Batprice/app/src/main/res/layout/task_detail.xml -->
