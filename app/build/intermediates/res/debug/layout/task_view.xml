@@ -6,24 +6,47 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
 
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/taskTextView"
         android:textSize="20sp"
         android:layout_alignBottom="@+id/doneButton"
-        android:gravity="center_vertical"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/taskDetailView"
+        android:textSize="20sp"
+        android:layout_alignBottom="@+id/doneButton"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/taskDateView"
+        android:textSize="20sp"
+        android:layout_alignBottom="@+id/doneButton"
         android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/detailButton" />
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/taskFavouriteView"
+        android:textSize="20sp"
+        android:layout_toStartOf="@+id/detailButton"
+        android:layout_alignBottom="@+id/taskDateView" />
 
     <EditText
-        android:id="@+id/task_due_date"
+        android:id="@+id/taskDateView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="number"
         android:layout_toEndOf="@+id/taskTextView"
         android:layout_alignParentTop="true" />
 
-    <Button
+    <!--<Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/details"
@@ -31,23 +54,21 @@
         android:onClick="onDescribeTaskClick"
         android:layout_alignParentTop="true"
         android:layout_toStartOf="@+id/doneButton" />
-        />
+        />-->
 
     <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/details"
-            android:id="@+id/detailButton"
-            android:onClick="onDetailViewClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/details"
+        android:id="@+id/action_detail_task"
         android:layout_alignParentTop="true"
-        android:layout_toStartOf="@+id/describetaskButton"
-        android:layout_alignBottom="@+id/describetaskButton" />
+        android:layout_toStartOf="@+id/doneButton" />
     <CheckBox
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:text="@string/done"
             android:id="@+id/doneButton"
-            android:onClick="onDoneButtonClick"
+            android:onClick="onDoneCheckBoxClick"
             android:layout_alignParentTop="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true" />

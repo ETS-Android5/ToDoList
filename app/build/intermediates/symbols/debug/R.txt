@@ -756,7 +756,7 @@ int drawable previous 0x7f0200a8
 int drawable zoom_in 0x7f0200a9
 int drawable zoom_out 0x7f0200aa
 int id action0 0x7f0c00b4
-int id action_add_task 0x7f0c00dc
+int id action_add_task 0x7f0c00df
 int id action_bar 0x7f0c007f
 int id action_bar_activity_content 0x7f0c0000
 int id action_bar_container 0x7f0c007e
@@ -766,15 +766,15 @@ int id action_bar_spinner 0x7f0c0001
 int id action_bar_subtitle 0x7f0c0060
 int id action_bar_title 0x7f0c005f
 int id action_context_bar 0x7f0c0080
-int id action_detail_task 0x7f0c00db
+int id action_detail_task 0x7f0c00de
 int id action_divider 0x7f0c00b8
 int id action_menu_divider 0x7f0c0002
 int id action_menu_presenter 0x7f0c0003
 int id action_mode_bar 0x7f0c007c
 int id action_mode_bar_stub 0x7f0c007b
 int id action_mode_close_button 0x7f0c0061
-int id action_remove_task 0x7f0c00dd
-int id action_settings 0x7f0c00de
+int id action_remove_task 0x7f0c00e0
+int id action_settings 0x7f0c00e1
 int id activity_chooser_view_content 0x7f0c0062
 int id adjust_height 0x7f0c0032
 int id adjust_width 0x7f0c0033
@@ -819,7 +819,7 @@ int id decor_content_parent 0x7f0c007d
 int id default_activity_button 0x7f0c0065
 int id default_control_frame 0x7f0c00aa
 int id describetaskButton 0x7f0c00d2
-int id detailButton 0x7f0c00da
+int id detailButton 0x7f0c00dd
 int id disableHome 0x7f0c000e
 int id disconnect 0x7f0c00b2
 int id donate_with 0x7f0c0052
@@ -946,6 +946,9 @@ int id submit_area 0x7f0c008a
 int id subtitle 0x7f0c00ae
 int id tabMode 0x7f0c000d
 int id tabs 0x7f0c0090
+int id taskDateView 0x7f0c00db
+int id taskDetailView 0x7f0c00da
+int id taskFavouriteView 0x7f0c00dc
 int id taskTextView 0x7f0c00d8
 int id task_description 0x7f0c00d1
 int id task_due_date 0x7f0c00d4
