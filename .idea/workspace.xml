@@ -11,73 +11,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a561df24-076e-4105-a995-08423ae10c99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TabActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TabActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/TodoList/TaskDetailActivity.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-88b9792499b1ede419d3c4a08882ff471f9f30d7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5b9681c5a4c40a01bfc77ef63d2de5ee80aa5938.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/TodoList" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-06bc3293594e06d2eca0120e257d052dd16c84fb.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-11801c1501039dfe123d634a6cb7ef5da09b3bb3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-134091de0008fe68db07f7656329829fcbad98c8.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-261c876849897921c4c82594af32fcdda693b8aa.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-264d52eb630f3861204e2eb7b3247aaa55cf12ac.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-2784af1b5787e1a8a8a23abc22340e3d35dce1da.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-3d052a5163ebf01d71450afc40c74b4c4f786ce3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6646ca41b02a072a1f4941e088761d9e3a4f72a9.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-6d2b003b96f04ecac70acf5dd4fda12376b98cb9.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-79ddde827fb576c5013fb053eb6ef18672371679.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-7fe031cba806181e289a6f63765c947d2e719e9f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-88b9792499b1ede419d3c4a08882ff471f9f30d7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-88b9792499b1ede419d3c4a08882ff471f9f30d7.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9540fbbb922268c274f9bfd8c3b4535910a0ccec.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9799988e7c69b2067d050b4749792b38303b1ee0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-9d9ada83f23c53b32313ac6879b5d7f5127f126e.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a33f96e2c1f782a706d1d80ff48dc9156254e608.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-a4fcff5f570dcce1c0cfa212235b8b2454e684a6.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b496af5f83cdefaf7341e87e6dd63a1778696765.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b77c79149f22dbadef153d84f36996e0ae9cdfcf.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c627325dba48af0475e7584246622f72157ec7d3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c6af508680b462feb5dd1132b7ea1e51fbb4096f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-c99bd079a6753e5846ba87366660fc958048c86b.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-d6cf4549ec335ab3377341bc4717ddd710dac222.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-dfb923f91663f42909fdf888f8b4bd7acc0c23e2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e01d13ebf17d4c05d92e791ea307ae52ac77dff1.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e166187bea9d5187292061e5d6346ffb084055e0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e25675b050e1e403c8aa0a70136342b1b713e1f7.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4908f7118439ebba4c3f2a0bcdb8c0268648548.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-e4f9e7a6557db6549e4a932a18240d02e148f24e.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-f59192c2c6bb841b7114e19ff7bc28c7de32106d.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-fa1c54a4f11230c3c0f1a8f1f61a19ec88417f87.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-62dfe5f7280e190180c2d0d09eb88c402add499f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5b9681c5a4c40a01bfc77ef63d2de5ee80aa5938.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5b9681c5a4c40a01bfc77ef63d2de5ee80aa5938.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-058e83b8e9b49d0d6b6c99784797b0288cdc7844.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/TodoList/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/TodoList/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_detail.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/task_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/task_detail.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/task_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Batprice.iws" />
@@ -2572,14 +2550,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="488" y="23" width="919" height="856" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6891892" sideWeight="0.8413719" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.75945944" sideWeight="0.8413719" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36903226" sideWeight="0.15862808" order="7" side_tool="true" content_ui="tabs" />
