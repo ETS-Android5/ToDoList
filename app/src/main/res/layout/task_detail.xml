@@ -11,7 +11,7 @@
     tools:context="com.example.TodoList.TaskDetailActivity">
 
   <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
@@ -69,24 +69,16 @@
             android:layout_height="wrap_content"
             android:gravity="top|left"
             android:inputType="textMultiLine"
-            android:lines="8"
+            android:lines="4"
             android:maxLines="10"
-            android:minLines="6"
+            android:minLines="2"
             android:scrollbars="vertical" />
             <requestFocus />
 
-
-      <Button
-          android:layout_width="64dp"
-          android:layout_height="wrap_content"
-          android:text="@string/details"
-          android:id="@+id/describetaskButton"
-          android:onClick="onDescribeTaskClick" />
-
         </LinearLayout>
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_width="wrap_content"
+        android:layout_height="141dp">
 
         <TextView
             android:id="@+id/textView2"
@@ -97,49 +89,45 @@
             android:text="Bis wann muss die Aufgabe erledigt sein?"
             android:textColor="#A4C639" />
 
-        <EditText
-            android:id="@+id/task_due_date"
-            android:layout_width="match_parent"
+        <DatePicker
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:inputType="numberDecimal" />
-
+            android:scaleX="1"
+            android:scaleY="1"
+            android:gravity="bottom|start"
+            android:id="@+id/date_picker"/>
     </LinearLayout>
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="44dp">
 
         <TextView
             android:id="@+id/textView3"
-            android:layout_width="176dp"
-            android:layout_height="112dp"
-            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
             android:layout_centerHorizontal="true"
             android:text="Handelt es sich um ein Favourite To Do?"
             android:textColor="#A4C639" />
 
         <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/task_favourite"
             android:onClick="clickCheckboxFunction"/>
 
     </LinearLayout>
 
-        <EditText
-            android:id="@+id/myNumber"
-            android:layout_width="fill_parent"
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+        <Button
+            android:layout_width="64dp"
             android:layout_height="wrap_content"
-            android:digits="0123456789."
-            android:inputType="numberDecimal" />
-
-
-
-        <DatePicker
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:scaleX="0.7"
-            android:scaleY="0.7"
-            android:gravity="bottom|start"
-            android:id="@+id/date_picker"/>-->
+            android:text="@string/details"
+            android:id="@+id/describetaskButton"
+            android:onClick="saveEntryClick"
+            android:layout_weight="0.14" />
+    </LinearLayout>
 
 </LinearLayout>
