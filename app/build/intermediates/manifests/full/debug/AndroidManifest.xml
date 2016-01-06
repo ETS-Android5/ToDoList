@@ -60,12 +60,6 @@
         <activity
             android:name="com.example.TodoList.TaskActivity"
             android:label="@string/app_name" />
-        <activity
-            android:name="com.example.TodoList.SubmitPriceActivity"
-            android:label="@string/title_activity_submit_price" />
-        <activity
-            android:name="com.example.TodoList.TaskDetailActivity"
-            android:label="Task Details" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
