@@ -22,5 +22,5 @@ Batprice is a real-time shopping application
 
 ### Who do I talk to? ###
 
-* Bastian Bechtle: service@die-web-agenten.de
+* Bastian Bechtle: bechtle.bastian@gmail.com
 * All rights reserved, no public license
